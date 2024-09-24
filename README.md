@@ -1,0 +1,2 @@
+# Multi-Dimensional-Analysis-of-Employee-Compensation-and-Exit-Patterns
+This dataset captures key information about employees across various departments and business units, highlighting their demographic details, compensation, and tenure. The data includes fields such as job title, department, business unit, gender, ethnicity, age, hire date, annual salary, bonus percentage, country, city, and exit date.
